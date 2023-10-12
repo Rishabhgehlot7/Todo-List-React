@@ -3,7 +3,7 @@ import Header from "./myComponents/Header";
 import ToDOs from "./myComponents/ToDOs";
 import Footer from "./myComponents/Footer";
 import AddTodo from "./myComponents/AddTodo";
-import About from "./myComponents/About";
+// import About from "./myComponents/About";
 import React, { useState, useEffect } from 'react';
 // import { BrowserRouter as Router, Route, Switch, Link } from "react-router-dom";
 
